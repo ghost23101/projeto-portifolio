@@ -85,9 +85,9 @@ main{
 
 #ficha h1{
   color: var(--destaque);
-  margin: 15px 0;
+  margin: 25px 0 15px;
   font-size: 1.5em;
-  text-align: left;
+  text-align: center;
 }
 
 #social{
@@ -95,7 +95,7 @@ main{
   justify-content: center;
   align-items: center;
   font-size: 1.6em;
-  gap: 1em;
+  gap: .5em;
 }
 
 #social a{
